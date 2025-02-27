@@ -12,7 +12,14 @@
 ## 📈통계 및 성과
 
 - '2024 관광데이터 활용 공모전' 장려상 입상
+<div style="display: flex; justify-content: center; gap: 80px;">
+  <img src="https://github.com/user-attachments/assets/a4899ba2-c87a-42ba-bf15-fc01fa86583c" width="35%" style="margin-right: 50px;">
+  <img src="https://github.com/user-attachments/assets/bc89a22b-ac5d-4ee0-9c0b-24dac9c3cecb" width="35%" style="margin-right: 50px;">
+</div>
 - 원스토어 출시
+<div style="display: flex; justify-content: center; gap: 80px;">
+  <img src="https://github.com/user-attachments/assets/40dbfb89-6b61-4b0b-b73d-82a3a019bd26" width="80%" style="margin-right: 50px;">
+</div>
 
 ## 📅 진행 일정
 
